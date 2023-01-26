@@ -11,18 +11,23 @@
 }
 .logo-adota{
     width: 500px;
+    
 }
 .container{
     display: flex;
-    justify-content: space-around;
+    
     align-items: center;
+
  
 }
 .navegacao-itens{
-    display: inline-block;
+    display: inline;
     font-size: 25px;
     margin-left: 40px;
     color: white;
+    justify-content: center;
+    text-align: justify;
+
 }
  
 a:hover{
@@ -34,3 +39,14 @@ a{
     text-decoration: none;
     color: white;
 }
+  body {
+  background-image:url(..//imagens/MicrosoftTeams-image\ \(1\).png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  }
+
+  .teste{
+    
+  }
+
